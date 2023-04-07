@@ -1,3 +1,3 @@
-# houseRent
+# percentage
 
-Describes the monthly house rent.
+Describes the overall percentage in a semester.
