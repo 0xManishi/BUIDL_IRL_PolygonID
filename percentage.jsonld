@@ -6,13 +6,13 @@
       "id": "@id",
       "type": "@type",
       "OverallPercentage": {
-        "@id": "https://raw.githubusercontent.com/0xPrakharG/BUIDL_IRL_PolygonID/main/houseRent.jsonld#percentage",
+        "@id": "https://raw.githubusercontent.com/0xManishi/BUIDL_IRL_PolygonID/main/percentage.jsonld#percentage",
         "@context": {
           "@version": 1.1,
           "@protected": true,
           "id": "@id",
           "type": "@type",
-          "vocab": "https://raw.githubusercontent.com/0xPrakharG/BUIDL_IRL_PolygonID/main/percentage-vocab.md#",
+          "vocab": "https://raw.githubusercontent.com/0xManishi/BUIDL_IRL_PolygonID/main/percentage-vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "percentage": {
             "@id": "vocab:percentage",

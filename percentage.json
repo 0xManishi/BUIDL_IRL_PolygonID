@@ -3,8 +3,8 @@
     "type": "object",
     "$metadata": {
       "uris": {
-        "jsonLdContext": "https://raw.githubusercontent.com/0xPrakharG/BUIDL_IRL_PolygonID/main/houseRent.jsonld",
-        "jsonSchema": "https://raw.githubusercontent.com/0xPrakharG/BUIDL_IRL_PolygonID/main/houseRent.json"
+        "jsonLdContext": "https://raw.githubusercontent.com/0xManishi/BUIDL_IRL_PolygonID/main/percentage.jsonld",
+        "jsonSchema": "https://raw.githubusercontent.com/0xManishi/BUIDL_IRL_PolygonID/main/percentage.json"
       }
     },
     "required": [
